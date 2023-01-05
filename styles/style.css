@@ -27,14 +27,6 @@ html {
     background-color: #090e29
   }
 
-  body {
-    width: 500px;
-    margin: 0 auto;
-    background-color: #0b0a20;
-    padding: 80px 80px 80px 80px;
-    border: 3px solid #163A45;
-  }
-
   h1 {
     margin: 0;
     padding: 15px 0;
@@ -46,5 +38,5 @@ html {
     display: block;
     margin: 0 auto;
     border: 3px solid #9d0000;
-    width: 350px;
+    width: 600px;
   }
