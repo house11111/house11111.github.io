@@ -40,3 +40,26 @@ html {
     border: 3px solid #9d0000;
     width: 600px;
   }
+
+  a.home {
+    display: block;
+    margin: 0px 925px;
+    margin-bottom: 33px;
+    color: rgb(0, 255, 234);
+    font-size: 18px;
+  }
+
+  a.invite {
+    display: block;
+    font-size:24px;
+    color: rgb(118, 80, 180);
+    margin: -30px 875px;
+  }
+
+  a.ICICI {
+    display: block;
+    font-size:24px;
+    margin: 0px 825px;
+    width: 400px;
+    color: rgb(118, 80, 180);
+  }
