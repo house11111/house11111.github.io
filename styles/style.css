@@ -43,7 +43,7 @@ html {
 
   a.home {
     display: block;
-    margin: 0px 925px;
+    margin: 0px auto;
     margin-bottom: 33px;
     color: rgb(0, 255, 234);
     font-size: 18px;
@@ -53,13 +53,13 @@ html {
     display: block;
     font-size:24px;
     color: rgb(118, 80, 180);
-    margin: -30px 875px;
+    margin: -30px auto;
   }
 
   a.ICICI {
     display: block;
     font-size:24px;
-    margin: 0px 825px;
+    margin: 0px auto;
     width: 400px;
     color: rgb(118, 80, 180);
   }
